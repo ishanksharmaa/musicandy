@@ -28,20 +28,20 @@ let track = document.createElement('audio');
 let All_song = [
    {
      name: "GoodBye",
-     path: "music/Apparat.mp3",
-     img: "img/Apparat.jpg",
+     path: "Apparat.mp3",
+     img: "Apparat.jpg",
      singer: "Apparat"
    },
    {
      name: "Familiar",
-     path: "music/Familiar.mp3",
-     img: "img/Familiar.jpg",
+     path: "Familiar.mp3",
+     img: "Familiar.jpg",
      singer: "Agnes Obel"
    },
    {
      name: "God's Whisper",
-     path: "music/Whisper.mp3",
-     img: "img/Whisper.jpg",
+     path: "Whisper.mp3",
+     img: "Whisper.jpg",
      singer: "Raury"
    }
 ];
